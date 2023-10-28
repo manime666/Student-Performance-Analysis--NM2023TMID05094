@@ -2,7 +2,7 @@
 
 
 
-Team Information
+Team Description
 
 Team Leader     - Manikandan S (NM ID - F0467FA6C785E118B0E4F2B557AF6E51) <br>
 Team Member 1 - Manjusri T G (NM ID - 05956EF50EA16A384224827B545CA3C9) <br>
